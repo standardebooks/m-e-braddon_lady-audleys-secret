@@ -1,2 +1,25 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+#chapter-5 blockquote{
+	text-align: center;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+header{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+footer{
+	text-align: right;
+}
