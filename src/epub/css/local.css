@@ -1,6 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#chapter-13 blockquote:first-of-type,
 #chapter-5 blockquote{
 	text-align: center;
 }
@@ -21,5 +22,6 @@ header{
 }
 
 footer{
+	margin-top: 1em;
 	text-align: right;
 }
