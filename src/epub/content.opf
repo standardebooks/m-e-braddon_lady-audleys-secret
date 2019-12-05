@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-12-05T18:00:46Z</dc:date>
+		<meta property="dcterms:modified">2019-12-05T18:00:46Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Lady Audley's Secret</dc:title>
-		<meta property="file-as" refines="#title">Lady Audley's Secret</meta>
+		<dc:title id="title">Lady Audley’s Secret</dc:title>
+		<meta property="file-as" refines="#title">Lady Audley’s Secret</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
 		<dc:subject id="subject-3">Domestic fiction</dc:subject>
@@ -54,15 +54,15 @@
 			&lt;p&gt;&lt;i&gt;Lady Audley’s Secret&lt;/i&gt; was the most successful of a long series of novels written by Mary Elizabeth Braddon in what was then called the “sensation” genre because of the inventive and slightly scandalous plots of such works.&lt;/p&gt;
 			&lt;p&gt;Published in 1862, &lt;i&gt;Lady Audley’s Secret&lt;/i&gt; was immediately popular and is said to have made a fortune for its author. It has never been out of print and has been the basis for a number of dramas and movies.&lt;/p&gt;
 			&lt;p&gt;The novel begins with the return from the Australian goldfields of ex-dragoon George Talboys. Three years earlier, in the depths of poverty, he had abandoned his young wife and their baby in order to seek his fortune. He returns to England having made that fortune by finding a huge gold nugget. He enlists the help of his friend Robert Audley, a rather idle young barrister, to seek out his wife. To George’s dismay and overwhelming grief, however, he sees a newspaper notice of the death of his wife only a few days prior to his return.&lt;/p&gt;
-			&lt;p&gt;A year later, when visiting Audley’s relatives and after catching a glimpse of the pretty new wife of Robert’s uncle, George unaccountably goes missing. Robert becomes increasingly convinced that his friend has met with violence and is dead, and begins to investigate. What he discovers fills him with despair.&lt;/p&gt;
+			&lt;p&gt;A year later, when visiting Audley’s relatives and after catching a glimpse of the pretty new wife of Robert’s uncle, George goes missing. Robert becomes increasingly convinced that his friend has met with violence and is dead, and begins to investigate. What he discovers fills him with despair.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8954</dc:source>
 		<dc:source>https://archive.org/details/ladyaudleyssecre01brad</dc:source>
 		<dc:source>https://archive.org/details/ladyaudleyssecre02brad</dc:source>
 		<dc:source>https://archive.org/details/ladyaudleyssecre03brad</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">151615</meta>
+		<meta property="se:reading-ease.flesch">67.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lady_Audley%27s_Secret</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-e-braddon_lady-audleys-secret</meta>
 		<dc:creator id="author">M. E. Braddon</dc:creator>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
