@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of Lady Audley’s Secret, by M. E. Braddon</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
