@@ -50,7 +50,7 @@
 		<meta property="term" refines="#subject-6">sh2008102115</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.</dc:abstract>
+		<meta property="schema:abstract">When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Lady Audley’s Secret&lt;/i&gt; was the most successful of a long series of novels written by &lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;Mary Elizabeth Braddon&lt;/a&gt; in what was then called the “sensation” genre because of the inventive and slightly scandalous plots of such works.&lt;/p&gt;
 			&lt;p&gt;Published in 1862, &lt;i&gt;Lady Audley’s Secret&lt;/i&gt; was immediately popular and is said to have made a fortune for its author. It has never been out of print and has been the basis for a number of dramas and movies.&lt;/p&gt;
