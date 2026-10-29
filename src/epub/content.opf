@@ -71,7 +71,7 @@
 		<dc:creator id="author">M. E. Braddon</dc:creator>
 		<meta property="file-as" refines="#author">Braddon, M. E.</meta>
 		<meta property="schema:alternateName" refines="#author">Mary Elizabeth Braddon</meta>
-		<link href="https://en.wikipedia.org/wiki/M._E._Braddon" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79066474.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Berthe Morisot</dc:contributor>
@@ -84,6 +84,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
